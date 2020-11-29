@@ -1,5 +1,7 @@
 # Tony Nguyen
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-nguyen1&layout=compact)](https://github.com/tony-nguyen1/github-readme-stats)
+
 Technologies used :
 
 <img align="left" alt="HTML5 logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/HTML5Logo.svg"/>
