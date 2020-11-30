@@ -9,8 +9,8 @@
 <img align="left" alt="JavaScript logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/JavaScriptLogo.svg"/>
 <img align="left" alt="Java logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/JavaLogo.svg"/>
 <img align="left" alt="Python logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/PythonLogo.svg"/>
-<img align="left" alt="SQL logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/SQLLogo.svg"/>  \<br><br/>&nbsp
-
+<img align="left" alt="SQL logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/SQLLogo.svg"/>  <br>
+<br>
 ##Frameworks used :  
 
 <img align="left" alt="Materialize CSS logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/MaterializeLogo.svg"/>
