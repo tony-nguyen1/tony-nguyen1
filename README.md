@@ -8,11 +8,15 @@ Based in **Montpellier, France**, I have a strong foundation in computer science
 
 ## Skills & Technologies
 
-![alt](https://skillicons.dev/icons?i=html,css,java,flutter,angular,git,github,docker,firebase,mongodb,svelte,go,nginx,maven,npm,spring&perline=8)
+![alt](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,svelte,flutter&perline=5)
+
+![alt](https://skillicons.dev/icons?i=firebase,mongodb,go,spring,php&perline=5)
+
+![alt](https://skillicons.dev/icons?i=git,github,docker,nginx,maven,npm,bash,githubactions,kafka,linux,ubuntu,&perline=6)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tony-nguyen1&layout=compact&theme=dark)
 
-## Learn more about me
+## Links
 
 [Linkedin](https://www.linkedin.com/in/nguyentoony/)
 
