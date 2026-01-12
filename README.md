@@ -8,8 +8,10 @@ Based in **Montpellier, France**, I have a strong foundation in computer science
 
 ## Skills & Technologies
 
-html,css,java,flutter,angular,git,github,docker,firebase,mongodb,svelte,go,nginx,maven,npm,spring
+![alt](https://skillicons.dev/icons?i=html,css,java,flutter,angular,git,github,docker,firebase,mongodb,svelte,go,nginx,maven,npm,spring&perline=8)
 
 ## Learn more about me
 
-{"linkedin":"https://www.linkedin.com/in/nguyentoony/","Website":"https://cv.nguyentony.fr/"}
+[Linkedin](https://www.linkedin.com/in/nguyentoony/)
+
+[Website](https://cv.nguyentony.fr/)
