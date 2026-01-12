@@ -1,19 +1,15 @@
-# Tony Nguyen
+## Hi there! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-nguyen1&layout=compact)](https://github.com/tony-nguyen1/github-readme-stats)
+I'm **Tony Nguyen**, a Master's Graduate in Computer Science. I am passionate about coding, building applications, and exploring new technologies!
 
-## Technologies used :
+## About Me
 
-<img align="left" alt="HTML5 logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/HTML5Logo.svg"/>
-<img align="left" alt="CSS3 logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/CSS3Logo.svg"/>
-<img align="left" alt="JavaScript logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/JavaScriptLogo.svg"/>
-<img align="left" alt="Java logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/JavaLogo.svg"/>
-<img align="left" alt="Python logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/PythonLogo.svg"/>
-<img align="left" alt="SQL logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/SQLLogo.svg"/> <br><br><br>
+Based in **Montpellier, France**, I have a strong foundation in computer science and a keen interest in software development. I love working on innovative projects and constantly strive to improve my skills.
 
-<br><br>
+## Skills & Technologies
 
-## Frameworks used :  
+html,css,java,flutter,angular,git,github,docker,firebase,mongodb,svelte,go,nginx,maven,npm,spring
 
-<img align="left" alt="Materialize CSS logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/MaterializeLogo.svg"/>
-<img align="left" alt="Leaflet logo" height="64px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/LeafletLogo.svg"/>
+## Learn more about me
+
+{"linkedin":"https://www.linkedin.com/in/nguyentoony/","Website":"https://cv.nguyentony.fr/"}
