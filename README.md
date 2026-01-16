@@ -22,4 +22,6 @@ Based in **Montpellier, France**, I have a strong foundation in computer science
 
 [Website](https://cv.nguyentony.fr/)
 
+[Link](http://link.nguyentony.fr/)
+
 
